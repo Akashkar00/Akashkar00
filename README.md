@@ -49,15 +49,9 @@ a monolith into properly separated services. Open to collaborating on **agentic 
 
 ### Stats
 
-## Self-hosting the stats cards
-
-The public `github-readme-stats` instance is shared by thousands of profiles and constantly returns "API rate limit exceeded", so the cards below render as broken images unless you run your own copy on Vercel.
-
-1. **Create a GitHub classic token.** Go to Settings → Developer settings → Personal access tokens (classic) → Generate new token (classic), select the `repo` scope, and set expiration to *No expiration*. Copy the token immediately — GitHub will never show it again — and never paste it into a README, an issue, a commit, or anywhere else public.
-2. **Fork** [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats).
-3. **Set up Vercel:** go to [vercel.com](https://vercel.com), sign up with GitHub, choose the **Hobby** (free) plan, then **Add New Project** and import your fork.
-4. **Add the environment variable** `PAT_1` with the token from step 1 as its value, then click **Deploy**.
-5. **Replace `YOUR-INSTANCE`** in the commented block below with the Vercel domain you get back, then uncomment it.
+<!-- Setup instructions for these cards live in SETUP.md, deliberately NOT here.
+     This file renders on a public profile; a walkthrough for forking a repo and
+     deploying to Vercel does not belong on the page people actually read. -->
 
 <p align="center">
   <a href="https://github.com/Akashkar00">
@@ -65,12 +59,16 @@ The public `github-readme-stats` instance is shared by thousands of profiles and
   </a>
 </p>
 
-<!-- The stats + top-langs cards live here. They are commented out on purpose:
-     they need YOUR self-hosted instance. The public github-readme-stats
-     instance was returning HTTP 503 when this was built, so shipping it live
-     would have put two broken images on the profile.
-     TO ENABLE: follow steps 1-5 above, replace YOUR-INSTANCE below with your
-     Vercel domain, then delete this comment's opening and closing markers. -->
+<!-- Stats + top-langs cards. Commented out until a self-hosted
+     github-readme-stats instance exists: the public instance returns 503 /
+     "API rate limit exceeded", which renders as a broken image.
+
+     TO ENABLE: see SETUP.md section 3, replace YOUR-INSTANCE below with your
+     Vercel domain, then delete the two comment markers around this block.
+
+     hide_rank=true is intentional and should stay -- the rank badge is
+     stars-weighted, so on a newer account it grades social reach rather than
+     engineering. -->
 
 <!--
 <p align="center">
@@ -82,8 +80,6 @@ The public `github-readme-stats` instance is shared by thousands of profiles and
   </a>
 </p>
 -->
-
-`hide_rank=true` is set on purpose. The rank badge is heavily stars-weighted, so for a newer account — this one was created in October 2025 and has 0 followers — it grades social reach rather than engineering, and reads far worse than the underlying work deserves. Hiding it keeps the card honest about what it can actually measure.
 
 ### Contribution graph
 
