@@ -1,7 +1,11 @@
+<!-- Absolute raw URLs with a ?v= cache key, not relative paths. GitHub proxies
+     README images through camo.githubusercontent.com and caches them hard: after
+     regenerating a banner the OLD image keeps serving until the URL changes.
+     BUMP ?v= EVERY TIME YOU REGENERATE THE SVGS or nobody will see the change. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Akash Kar — GenAI, agentic systems, data science and analytics" src="./assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashkar00/Akashkar00/main/assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashkar00/Akashkar00/main/assets/banner-light.svg?v=2">
+  <img alt="Akash Kar — GenAI, agentic systems, data science and analytics" src="https://raw.githubusercontent.com/Akashkar00/Akashkar00/main/assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 ---
