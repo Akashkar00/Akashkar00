@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Akash Kar — GenAI and agentic systems engineer" src="./assets/banner-light.svg" width="100%">
+  <img alt="Akash Kar — GenAI, agentic systems, data science and analytics" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 ---

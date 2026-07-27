@@ -61,7 +61,7 @@ THEMES = {
 
 ROWS = [
     ("Subject",        "AKASH KAR"),
-    ("Role",           "GenAI / Agentic Systems Engineer"),
+    ("Role",           "GenAI / Agentic Systems | Data Science | Analytics"),
     ("Origin",         "Rourkela, Odisha, India"),
     ("Education",      "B.Tech Biomedical Engg, NIT Rourkela"),
     ("Status",         "Building + Learning + Shipping"),
@@ -409,7 +409,7 @@ def build(theme_name, bits, rng):
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
         f'width="{W}" height="{H}" role="img" '
-        f'aria-label="Akash Kar - GenAI and agentic systems engineer">',
+        f'aria-label="Akash Kar - GenAI, agentic systems, data science and analytics">',
         # ligature-capable monospace fonts render "--live" as an em dash
         '<style>text{font-variant-ligatures:none}</style>',
         chrome(t),
