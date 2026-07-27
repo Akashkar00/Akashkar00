@@ -1,0 +1,6 @@
+.DS_Store
+
+# Full-resolution source headshot. Excluded by default: this repo is public and
+# a raw photo is a different exposure from the dithered banner it produces.
+# Drop this line if you're happy publishing it (the generator needs it to re-run).
+generator/source_portrait.png
