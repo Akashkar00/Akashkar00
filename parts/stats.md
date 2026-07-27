@@ -6,7 +6,7 @@ The public `github-readme-stats` instance is shared by thousands of profiles and
 2. **Fork** [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats).
 3. **Set up Vercel:** go to [vercel.com](https://vercel.com), sign up with GitHub, choose the **Hobby** (free) plan, then **Add New Project** and import your fork.
 4. **Add the environment variable** `PAT_1` with the token from step 1 as its value, then click **Deploy**.
-5. **Replace `YOUR-INSTANCE`** in the URLs below with the Vercel domain you get back (e.g. `github-readme-stats-abc123`).
+5. **Replace `github-readme-stats.vercel.app`** in the URLs below with the Vercel domain you get back (e.g. `github-readme-stats-abc123.vercel.app`).
 
 <p align="center">
   <a href="https://github.com/Akashkar00">
@@ -14,12 +14,18 @@ The public `github-readme-stats` instance is shared by thousands of profiles and
   </a>
 </p>
 
+<!-- NOTE: these two cards currently point at the PUBLIC github-readme-stats
+     instance so the profile renders immediately. That instance is shared by
+     thousands of users and intermittently returns "API rate limit exceeded",
+     which shows up as a broken image. Follow the steps above, then replace
+     `github-readme-stats.vercel.app` with your own Vercel domain. -->
+
 <p align="center">
   <a href="https://github.com/Akashkar00">
-    <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Akashkar00&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=C9D4E8&icon_color=10B981&border_color=1E2A44" alt="GitHub stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akashkar00&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=C9D4E8&icon_color=10B981&border_color=1E2A44" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Akashkar00">
-    <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=Akashkar00&layout=compact&langs_count=8&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=C9D4E8&icon_color=10B981&border_color=1E2A44" alt="Top languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashkar00&layout=compact&langs_count=8&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=C9D4E8&icon_color=10B981&border_color=1E2A44" alt="Top languages" />
   </a>
 </p>
 
