@@ -92,7 +92,6 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-0A101F?style=for-the-badge&logo=terraform" alt="Terraform" />
   <img src="https://img.shields.io/badge/Google_Cloud-0A101F?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0A101F?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
