@@ -72,11 +72,22 @@ a monolith into properly separated services. Open to collaborating on **agentic 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-0A101F?style=for-the-badge&logo=css" alt="CSS" />
   <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Electron-0A101F?style=for-the-badge&logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0A101F?style=for-the-badge&logo=langgraph" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Pydantic-0A101F?style=for-the-badge&logo=pydantic" alt="Pydantic" />
   <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-0A101F?style=for-the-badge&logo=streamlit" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Gradio-0A101F?style=for-the-badge&logo=gradio" alt="Gradio" />
   <img src="https://img.shields.io/badge/spaCy-0A101F?style=for-the-badge&logo=spacy" alt="spaCy" />
+  <img src="https://img.shields.io/badge/NumPy-0A101F?style=for-the-badge&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0A101F?style=for-the-badge&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-0A101F?style=for-the-badge&logo=scikitlearn" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-0A101F?style=for-the-badge&logo=jupyter" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-0A101F?style=for-the-badge&logo=redis" alt="Redis" />
@@ -84,6 +95,10 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-0A101F?style=for-the-badge&logo=terraform" alt="Terraform" />
   <img src="https://img.shields.io/badge/Google_Cloud-0A101F?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0A101F?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
 </p>
 
 ---
