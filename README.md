@@ -56,16 +56,14 @@ a monolith into properly separated services. Open to collaborating on **agentic 
      Those GIFs are hosted on user-images.githubusercontent.com and hotlinked,
      same as the rest of that repo's own README does.
 
-     ONLY Python and React are used here because that collection is a generic
-     web-dev set (JS, Python, GitHub, VS Code, Vue, Node, React) -- it has no
-     LangChain/LangGraph/ML logos at all, so the rest of the stack below stays
-     as static pills. Don't go looking for a LangChain GIF there; it isn't one
-     of the ~20 in that section. -->
+     Only Python is used here. That collection is a generic web-dev set (JS,
+     Python, GitHub, VS Code, Vue, Node, React) with no LangChain/LangGraph/ML
+     logos at all, so the rest of the stack below stays as static pills. Don't
+     go looking for a LangChain GIF there; it isn't one of the ~20 in that
+     section. -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="52" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="52" alt="React" />
 </p>
 
 <!-- "Tech Universe"-style pill grid (Akash supplied a reference image,
