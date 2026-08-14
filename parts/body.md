@@ -79,7 +79,6 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/Pydantic-0A101F?style=for-the-badge&logo=pydantic" alt="Pydantic" />
   <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-0A101F?style=for-the-badge&logo=streamlit" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Gradio-0A101F?style=for-the-badge&logo=gradio" alt="Gradio" />
   <img src="https://img.shields.io/badge/spaCy-0A101F?style=for-the-badge&logo=spacy" alt="spaCy" />
   <img src="https://img.shields.io/badge/NumPy-0A101F?style=for-the-badge&logo=numpy" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-0A101F?style=for-the-badge&logo=pandas" alt="Pandas" />
