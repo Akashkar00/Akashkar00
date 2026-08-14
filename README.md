@@ -59,7 +59,7 @@ a monolith into properly separated services. Open to collaborating on **agentic 
 
 <p align="center">
   <a href="https://github.com/Akashkar00">
-    <img width="100%" src="https://streak-stats.demolab.com?user=Akashkar00&hide_border=false&background=0A101F&border=1E2A44&stroke=1E2A44&ring=10B981&fire=10B981&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=C9D4E8&sideNums=C9D4E8&dates=C9D4E8" alt="GitHub streak stats" />
+    <img width="100%" src="https://streak-stats.demolab.com?user=Akashkar00&hide_border=false&background=0A101F&border=1E2A44&stroke=1E2A44&ring=10B981&fire=10B981&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=C9D4E8&sideNums=C9D4E8&dates=C9D4E8&v=2" alt="GitHub streak stats" />
   </a>
 </p>
 
