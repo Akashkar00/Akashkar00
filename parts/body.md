@@ -51,6 +51,23 @@ a monolith into properly separated services. Open to collaborating on **agentic 
 
 ### Tech stack
 
+<!-- Animated logo accent row, sourced from
+     github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub ("Moving Logos" section).
+     Those GIFs are hosted on user-images.githubusercontent.com and hotlinked,
+     same as the rest of that repo's own README does.
+
+     ONLY Python and React are used here because that collection is a generic
+     web-dev set (JS, Python, GitHub, VS Code, Vue, Node, React) -- it has no
+     LangChain/LangGraph/ML logos at all, so the rest of the stack below stays
+     as static pills. Don't go looking for a LangChain GIF there; it isn't one
+     of the ~20 in that section. -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="52" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="52" alt="React" />
+</p>
+
 <!-- "Tech Universe"-style pill grid (Akash supplied a reference image,
      icons.png, showing dark rounded badges in each tool's own brand colour).
      Reproduced with shields.io for-the-badge pills on this repo's 0A101F
