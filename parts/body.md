@@ -63,11 +63,10 @@ a monolith into properly separated services. Open to collaborating on **agentic 
      This list is Akash's actual stack per the project descriptions above --
      not the generic sample list in icons.png. Tools with a real simple-icons
      logo use one; RAG and LoRA/QLoRA are techniques, not branded tools, so
-     they're deliberately plain text pills (no `logo=`) rather than a
-     broken/blank icon -- same convention icons.png itself used for its "LLM"
-     pill. Groq, AWS, MATLAB, Tableau, and OpenAI have no working shields.io
-     logo (confirmed via <image> element check, not just HTTP 200) and are
-     left out entirely rather than shown broken.
+     they intentionally borrow the Python glyph (logo=python) rather than
+     going logo-less. Groq, AWS, MATLAB, Tableau, and OpenAI have no working
+     shields.io logo (confirmed via <image> element check, not just HTTP 200)
+     and are left out entirely rather than shown broken.
 
      Re-verify a slug renders before adding one: an <img> with a missing logo
      silently falls back to a text-only pill (no error) -- check the response
@@ -79,8 +78,8 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/Electron-0A101F?style=for-the-badge&logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0A101F?style=for-the-badge&logo=langgraph" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-0A101F?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-0A101F?style=for-the-badge" alt="LoRA/QLoRA" />
+  <img src="https://img.shields.io/badge/RAG-0A101F?style=for-the-badge&logo=python" alt="RAG" />
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-0A101F?style=for-the-badge&logo=python" alt="LoRA/QLoRA" />
   <img src="https://img.shields.io/badge/Pydantic-0A101F?style=for-the-badge&logo=pydantic" alt="Pydantic" />
   <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-0A101F?style=for-the-badge&logo=streamlit" alt="Streamlit" />
