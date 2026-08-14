@@ -61,9 +61,13 @@ a monolith into properly separated services. Open to collaborating on **agentic 
      same as the reference grid.
 
      This list is Akash's actual stack per the project descriptions above --
-     not the generic sample list in icons.png. Only tools with a real
-     simple-icons logo are included; Groq has no simple-icons entry so it's
-     deliberately left out rather than shown as a broken/blank icon.
+     not the generic sample list in icons.png. Tools with a real simple-icons
+     logo use one; RAG and LoRA/QLoRA are techniques, not branded tools, so
+     they're deliberately plain text pills (no `logo=`) rather than a
+     broken/blank icon -- same convention icons.png itself used for its "LLM"
+     pill. Groq, AWS, MATLAB, Tableau, and OpenAI have no working shields.io
+     logo (confirmed via <image> element check, not just HTTP 200) and are
+     left out entirely rather than shown broken.
 
      Re-verify a slug renders before adding one: an <img> with a missing logo
      silently falls back to a text-only pill (no error) -- check the response
@@ -75,6 +79,8 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/Electron-0A101F?style=for-the-badge&logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0A101F?style=for-the-badge&logo=langgraph" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-0A101F?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-0A101F?style=for-the-badge" alt="LoRA/QLoRA" />
   <img src="https://img.shields.io/badge/Pydantic-0A101F?style=for-the-badge&logo=pydantic" alt="Pydantic" />
   <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-0A101F?style=for-the-badge&logo=streamlit" alt="Streamlit" />
@@ -82,6 +88,8 @@ a monolith into properly separated services. Open to collaborating on **agentic 
   <img src="https://img.shields.io/badge/NumPy-0A101F?style=for-the-badge&logo=numpy" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-0A101F?style=for-the-badge&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-0A101F?style=for-the-badge&logo=scikitlearn" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-0A101F?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-0A101F?style=for-the-badge&logo=keras" alt="Keras" />
   <img src="https://img.shields.io/badge/Jupyter-0A101F?style=for-the-badge&logo=jupyter" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql" alt="MySQL" />
