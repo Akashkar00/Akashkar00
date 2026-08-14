@@ -49,4 +49,41 @@ Deepening **multi-agent orchestration** and **MCP**, and pushing the Enterprise 
 a monolith into properly separated services. Open to collaborating on **agentic AI** and
 **clinical/health-tech ML**.
 
+### Tech stack
+
+<!-- "Tech Universe"-style pill grid (Akash supplied a reference image,
+     icons.png, showing dark rounded badges in each tool's own brand colour).
+     Reproduced with shields.io for-the-badge pills on this repo's 0A101F
+     background, `logo=` set but logoColor DELIBERATELY OMITTED so each icon
+     renders in its own brand colour instead of a forced accent -- that's what
+     gives the multi-colour "universe" look instead of a flat monochrome row.
+     GitHub wraps the images onto multiple lines by viewport width on its own,
+     same as the reference grid.
+
+     This list is Akash's actual stack per the project descriptions above --
+     not the generic sample list in icons.png. Only tools with a real
+     simple-icons logo are included; Groq has no simple-icons entry so it's
+     deliberately left out rather than shown as a broken/blank icon.
+
+     Re-verify a slug renders before adding one: an <img> with a missing logo
+     silently falls back to a text-only pill (no error) -- check the response
+     contains an <image> element, not just byte size. -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0A101F?style=for-the-badge&logo=langgraph" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/spaCy-0A101F?style=for-the-badge&logo=spacy" alt="spaCy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-0A101F?style=for-the-badge&logo=redis" alt="Redis" />
+  <img src="https://img.shields.io/badge/Qdrant-0A101F?style=for-the-badge&logo=qdrant" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-0A101F?style=for-the-badge&logo=terraform" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Google_Cloud-0A101F?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
+</p>
+
 ---

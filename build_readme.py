@@ -30,8 +30,6 @@ SNAKE = f"""### Contribution graph
 
 ORDER = [
     ("body.md", None),
-    (None, "### Stats"),
-    ("stats.md", None),
     (None, SNAKE),
     (None, "### Find me"),
     ("badges.md", None),
@@ -52,9 +50,6 @@ def main():
 
     n = len(text)
     print(f"wrote README.md  {n} chars, {text.count(chr(10))+1} lines")
-    if "YOUR-INSTANCE" in text:
-        print("REMINDER: README still contains YOUR-INSTANCE -- substitute your "
-              "Vercel domain before the stats cards will render.")
 
 
 if __name__ == "__main__":
