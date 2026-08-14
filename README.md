@@ -72,9 +72,6 @@ a monolith into properly separated services. Open to collaborating on **agentic 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-0A101F?style=for-the-badge&logo=css" alt="CSS" />
   <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Electron-0A101F?style=for-the-badge&logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain" alt="LangChain" />
